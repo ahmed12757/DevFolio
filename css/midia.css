@@ -1,0 +1,129 @@
+@media (min-width:576px) {
+    @keyframes designer {
+  0%,
+  25%,
+  50%,
+  100% {
+    width: 0%;
+  }
+  12.5% {
+    width: calc(9 * 17px);
+  }
+  17.5% {
+    width: calc(9 * 17px);
+  }
+}
+@keyframes Developer {
+  0%,
+  25%,
+  50%,
+  100% {
+    width: 0%;
+  }
+
+  37.5% {
+    width: calc(10 * 17px);
+  }
+  43.5% {
+    width: calc(10 * 17px);
+  }
+}
+@keyframes Freelancer {
+  0%,
+  37.5%,
+  50%,
+  75%,
+  87.5%,
+  100% {
+    width: 0%;
+  }
+
+  62.5% {
+    width: calc(11 * 17px);
+  }
+  68.5% {
+    width: calc(11 * 17px);
+  }
+}
+@keyframes Photographer {
+  0%,
+  37.5%,
+  50%,
+  75%,
+  100% {
+    width: 0%;
+  }
+
+  87.5% {
+    width: calc(12 * 17px);
+  }
+  93.5% {
+    width: calc(12 * 17px);
+  }
+}
+}
+@media (min-width:768px) {
+    @keyframes designer {
+  0%,
+  25%,
+  50%,
+  100% {
+    width: 0%;
+  }
+  12.5% {
+    width: calc(9 * 20px);
+  }
+  17.5% {
+    width: calc(9 * 20px);
+  }
+}
+@keyframes Developer {
+  0%,
+  25%,
+  50%,
+  100% {
+    width: 0%;
+  }
+
+  37.5% {
+    width: calc(10 * 20px);
+  }
+  43.5% {
+    width: calc(10 * 20px);
+  }
+}
+@keyframes Freelancer {
+  0%,
+  37.5%,
+  50%,
+  75%,
+  87.5%,
+  100% {
+    width: 0%;
+  }
+
+  62.5% {
+    width: calc(12 * 20px);
+  }
+  68.5% {
+    width: calc(12 * 20px);
+  }
+}
+@keyframes Photographer {
+  0%,
+  37.5%,
+  50%,
+  75%,
+  100% {
+    width: 0%;
+  }
+
+  87.5% {
+    width: calc(14 * 20px);
+  }
+  93.5% {
+    width: calc(14 * 20px);
+  }
+}
+}
+
